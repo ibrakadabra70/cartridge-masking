@@ -1,5 +1,9 @@
 # Automatic masking of cartridge case head scans
 
+Repository: <https://github.com/ibrakadabra70/cartridge-masking>
+(`git clone https://github.com/ibrakadabra70/cartridge-masking.git`, see
+[Quick start](#quick-start-windows-11-powershell)).
+
 Automatically detects and colour-masks the regions of a cartridge case head
 scan (3D topography rendering), following the colour scheme of the
 assignment:
@@ -40,12 +44,18 @@ More sample figures: [Fadul 1-1](outputs/samples/Fadul%201-1/side_by_side.png) Â
 
 ## Quick start (Windows 11, PowerShell)
 
-Requires **Python 3.14** (other recent 3.x versions should work too) and Git.
+Requires **Python 3.14** (other recent 3.x versions should work too) and
+**Git** (install it from <https://git-scm.com/download/win> or with
+`winget install --id Git.Git -e`, then open a new PowerShell window).
 
 ```powershell
-# 1. Get the code
-git clone <repository-url> cartridge-masking
+# 1. Clone the repository and enter it
+git clone https://github.com/ibrakadabra70/cartridge-masking.git
 cd cartridge-masking
+#    (no Git? On the GitHub page use Code > Download ZIP, extract it,
+#     and cd into the extracted cartridge-masking-main folder instead)
+
+#    To get later updates:  git pull
 
 # 2. Create and activate a virtual environment
 py -3.14 -m venv .venv
