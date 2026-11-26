@@ -1,0 +1,19 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Raw NIST data (large; download it yourself, see README)
+data/raw/
+
+# Generated results: ignore everything except the curated sample results
+outputs/*
+!outputs/samples/
+outputs/**/*.npy
+
+# Editors / OS
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store

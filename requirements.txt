@@ -1,0 +1,24 @@
+# Exact versions from the development venv (Python 3.14, Windows 11).
+# Install with:  python -m pip install -r requirements.txt
+
+# --- used by the code ---
+numpy==2.5.5
+opencv-python==5.1.0.95
+matplotlib==3.11.2
+
+# --- tests ---
+pytest==9.2.0
+
+# --- pinned dependencies of the above (from pip freeze) ---
+contourpy==1.4.0
+cycler==0.12.1
+fonttools==4.68.0
+kiwisolver==1.5.1
+packaging==26.3
+pillow==13.0.0
+pyparsing==3.3.3
+python-dateutil==4.0.0
+colorama==0.4.6
+iniconfig==2.3.1
+pluggy==1.7.0
+Pygments==2.21.0

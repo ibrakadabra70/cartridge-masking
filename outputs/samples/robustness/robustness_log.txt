@@ -1,0 +1,58 @@
+Fadul 1-1  rot   0 scale 0.60: primer err   3.0 um, rim err   5.0 um, drag err   0.2 deg, shear err   3.0 deg
+Fadul 1-1  rot   0 scale 0.80: primer err   2.0 um, rim err   4.0 um, drag err   0.0 deg, shear err   0.5 deg
+Fadul 1-1  rot   0 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   0.0 deg, shear err   0.0 deg
+Fadul 1-1  rot   0 scale 1.25: primer err   2.0 um, rim err   1.0 um, drag err   0.2 deg, shear err   2.5 deg
+Fadul 1-1  rot   0 scale 1.50: primer err   2.0 um, rim err   1.0 um, drag err   0.1 deg, shear err   0.0 deg
+Fadul 1-1  rot  45 scale 1.00: primer err   3.0 um, rim err   5.0 um, drag err   0.2 deg, shear err   0.0 deg
+Fadul 1-1  rot  90 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   0.0 deg, shear err   0.0 deg
+Fadul 1-1  rot 137 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   0.0 deg, shear err   0.0 deg
+Fadul 1-1  rot 200 scale 1.00: primer err   2.0 um, rim err   2.0 um, drag err   0.2 deg, shear err   0.5 deg
+Fadul 1-1  rot 290 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   0.1 deg, shear err   0.0 deg
+Fadul 3-1  rot   0 scale 0.60: primer err   3.0 um, rim err  11.0 um, drag err   0.0 deg, shear err  79.0 deg
+Fadul 3-1  rot   0 scale 0.80: primer err   1.0 um, rim err   2.0 um, drag err   0.0 deg, shear err  13.0 deg
+Fadul 3-1  rot   0 scale 1.00: primer err   3.0 um, rim err   4.0 um, drag err   0.0 deg, shear err   3.0 deg
+Fadul 3-1  rot   0 scale 1.25: primer err   0.0 um, rim err   9.0 um, drag err   0.0 deg, shear err  79.5 deg
+Fadul 3-1  rot   0 scale 1.50: primer err   1.0 um, rim err  10.0 um, drag err   0.0 deg, shear err  13.5 deg
+Fadul 3-1  rot  45 scale 1.00: primer err   1.0 um, rim err   6.0 um, drag err   0.0 deg, shear err  13.0 deg
+Fadul 3-1  rot  90 scale 1.00: primer err   3.0 um, rim err   9.0 um, drag err   0.1 deg, shear err  79.5 deg
+Fadul 3-1  rot 137 scale 1.00: primer err   1.0 um, rim err  12.0 um, drag err   0.1 deg, shear err  79.0 deg
+Fadul 3-1  rot 200 scale 1.00: primer err   1.0 um, rim err  14.0 um, drag err   0.0 deg, shear err  78.5 deg
+Fadul 3-1  rot 290 scale 1.00: primer err   1.0 um, rim err  11.0 um, drag err   0.0 deg, shear err  14.5 deg
+Fadul 7-1  rot   0 scale 0.60: primer err   2.0 um, rim err   2.0 um, drag err   nan deg, shear err   1.0 deg
+Fadul 7-1  rot   0 scale 0.80: primer err   2.0 um, rim err   1.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot   0 scale 1.00: primer err   1.0 um, rim err   0.0 um, drag err   nan deg, shear err   2.5 deg
+Fadul 7-1  rot   0 scale 1.25: primer err   2.0 um, rim err   1.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot   0 scale 1.50: primer err   2.0 um, rim err   3.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot  45 scale 1.00: primer err   2.0 um, rim err   2.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot  90 scale 1.00: primer err   1.0 um, rim err   5.0 um, drag err   nan deg, shear err   0.5 deg
+Fadul 7-1  rot 137 scale 1.00: primer err   2.0 um, rim err   3.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot 200 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul 7-1  rot 290 scale 1.00: primer err   2.0 um, rim err   0.0 um, drag err   nan deg, shear err   0.0 deg
+Fadul E    rot   0 scale 0.60: primer err   2.0 um, rim err   4.0 um, drag err   0.6 deg, shear err  19.0 deg
+Fadul E    rot   0 scale 0.80: primer err   2.0 um, rim err   5.0 um, drag err   0.6 deg, shear err   0.5 deg
+Fadul E    rot   0 scale 1.00: primer err   2.0 um, rim err   1.0 um, drag err   0.0 deg, shear err   0.5 deg
+Fadul E    rot   0 scale 1.25: primer err   2.0 um, rim err   3.0 um, drag err   0.0 deg, shear err   0.5 deg
+Fadul E    rot   0 scale 1.50: primer err   0.0 um, rim err   4.0 um, drag err   0.1 deg, shear err   0.5 deg
+Fadul E    rot  45 scale 1.00: primer err   2.0 um, rim err   2.0 um, drag err   0.2 deg, shear err  41.0 deg
+Fadul E    rot  90 scale 1.00: primer err   2.0 um, rim err   1.0 um, drag err   0.2 deg, shear err   0.5 deg
+Fadul E    rot 137 scale 1.00: primer err   2.0 um, rim err   2.0 um, drag err   0.4 deg, shear err  19.5 deg
+Fadul E    rot 200 scale 1.00: primer err   2.0 um, rim err   4.0 um, drag err   0.1 deg, shear err   0.5 deg
+Fadul E    rot 290 scale 1.00: primer err   2.0 um, rim err   5.0 um, drag err   0.4 deg, shear err   0.5 deg
+Fadul X    rot   0 scale 0.60: primer err  17.0 um, rim err   1.0 um, drag err   0.1 deg, shear err   0.5 deg
+Fadul X    rot   0 scale 0.80: primer err  17.0 um, rim err   0.0 um, drag err   0.1 deg, shear err   0.5 deg
+Fadul X    rot   0 scale 1.00: primer err   9.0 um, rim err   7.0 um, drag err   0.0 deg, shear err  21.5 deg
+Fadul X    rot   0 scale 1.25: primer err  14.0 um, rim err   7.0 um, drag err   0.0 deg, shear err   0.5 deg
+Fadul X    rot   0 scale 1.50: primer err  13.0 um, rim err   5.0 um, drag err   0.1 deg, shear err  21.5 deg
+Fadul X    rot  45 scale 1.00: primer err  15.0 um, rim err   3.0 um, drag err   0.0 deg, shear err   nan deg
+Fadul X    rot  90 scale 1.00: primer err  18.0 um, rim err   3.0 um, drag err   0.0 deg, shear err 122.0 deg
+Fadul X    rot 137 scale 1.00: primer err  14.0 um, rim err   0.0 um, drag err   0.0 deg, shear err   0.5 deg
+Fadul X    rot 200 scale 1.00: primer err  14.0 um, rim err   1.0 um, drag err   0.1 deg, shear err   1.0 deg
+Fadul X    rot 290 scale 1.00: primer err  14.0 um, rim err   5.0 um, drag err   0.0 deg, shear err   0.5 deg
+
+50/50 transformed scans processed
+primer radius error (mm): median 0.002, max 0.018
+FPI rim radius error (mm): median 0.003, max 0.014
+drag angle error (deg):   median 0.05, max 0.6
+shear peak error (deg):   median 0.5, max 122
+drag yes/no unchanged:    50/50
+figure: outputs\samples\robustness\robustness_examples.png

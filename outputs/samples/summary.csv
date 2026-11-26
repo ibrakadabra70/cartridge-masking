@@ -1,0 +1,6 @@
+file,status,um_per_px,scale_source,primer_cx_px,primer_cy_px,primer_radius_px,primer_radius_mm,aperture_radius_mm,aperture_arc_coverage,fpi_cx_px,fpi_cy_px,fpi_rim_radius_mm,fpi_rim_fraction,fpi_rim_source,breech_face_area_mm2,fpi_area_mm2,aperture_shear_area_mm2,firing_pin_shear_area_mm2,drag_detected,drag_angle_deg,drag_strength,drag_length_mm,aperture_shear_detected,aperture_shear_sector_deg,aperture_shear_contrast,warnings
+Fadul 1-1 3DVM.PNG,ok,3.268,scale bar,651.4,620.3,544.3,1.779,1.23,0.72,547.0,632.2,1.032,0.61,default,4.8898,2.5277,0.0714,0.8203,True,357.9,0.19,0.86,True,170-190,4.02,
+Fadul 3-1 3DVM.PNG,ok,3.268,scale bar,649.8,620.7,532.0,1.739,1.258,0.68,706.2,650.5,1.036,0.61,default,4.2315,2.6272,0.2098,0.7446,True,3.4,0.52,1.047,True,201-238,2.73,
+Fadul 7-1 3DVM.PNG,ok,3.268,scale bar,649.3,624.4,553.0,1.807,1.242,0.93,630.8,685.7,1.024,0.61,default,5.0596,3.293,0.1145,0.0,False,,0.0,,True,210-235,3.9,
+Fadul E 3DVM.PNG,ok,3.145,scale bar,672.8,615.5,570.9,1.795,1.236,1.0,722.8,689.6,1.02,0.61,default,4.9996,2.5369,0.3456,0.7319,True,5.8,0.22,0.834,True,151-216,3.44,
+Fadul X 3DVM.PNG,ok,3.145,scale bar,685.9,585.3,537.6,1.69,1.203,0.82,668.4,758.0,1.015,0.61,default,4.779,2.418,0.0907,0.8157,True,4.6,0.26,0.911,True,274-294,2.17,
